@@ -26,4 +26,3 @@ docker build -t img:dataset .
 #运行该镜像，生成容器。也可以考虑使用创建子网，在使用内网Ip的时候请提前创建内网网段
 
 docker run  -d --name image_dataset_api -v /home/imageFile:/home/imageFile -v /home/image_zip:/home/image_zip -v /home/static:/home/static -p 8080:8080 -p 443:443 img:dataset
-
