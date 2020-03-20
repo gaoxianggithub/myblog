@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="182a854d-dd9f-4421-b1b9-5a64fc89a787" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/shawn/test/controller/HelloController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devops.sh" beforeDir="false" afterPath="$PROJECT_DIR$/devops.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584716868470</updated>
-      <workItem from="1584716872895" duration="3663000" />
+      <workItem from="1584716872895" duration="3808000" />
     </task>
     <task id="LOCAL-00001" summary="2nd 提交">
       <created>1584720339540</created>
@@ -97,6 +99,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2nd 提交" />
@@ -139,6 +151,10 @@
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state width="1874" height="615" key="GridCell.Tab.1.right/0.0.3840.2120@0.0.3840.2120" timestamp="1584720310890" />
+    <state width="498" height="468" key="SwitcherDM" timestamp="1584720664436">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="498" height="468" key="SwitcherDM/0.0.3840.2120@0.0.3840.2120" timestamp="1584720664436" />
     <state x="2671" y="972" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584719224687">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
